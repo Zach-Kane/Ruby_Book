@@ -1,4 +1,4 @@
-puts "Get The Sqare!"
+puts "Get The Square!"
 number = gets.chomp.to_f
 
 x = number * number

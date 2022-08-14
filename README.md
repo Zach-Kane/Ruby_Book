@@ -1,2 +1,2 @@
 # README #
-# Files created whlle working through the "Ruby Book".
+# Files created while working through the "Ruby Book".
