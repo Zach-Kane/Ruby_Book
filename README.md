@@ -1,2 +1,2 @@
 # README #
-# Files created while working through the "Ruby Book".
+# Excercises from the book "Introduction to Programming with Ruby".
